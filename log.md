@@ -12,5 +12,4 @@
 
 2. [Khan Academy: How the Internet works](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works)
 
-3. [Portifólio no FreeCodeCamp]
-(https://www.freecodecamp.org/garrrcia)
+3. [Portifólio no FreeCodeCamp](https://www.freecodecamp.org/garrrcia)
