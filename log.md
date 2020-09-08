@@ -1,30 +1,16 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Diário de Bordo
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dia 1: 7 de Setembro, Segunda
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso de Hoje**: Terminei o curso de Curso teórico de introdução ao IHC. Comclui o básico de HTML do FreeCodeCamp e Conclui o Módulo 1 do Curso da PrograMaria. Assisti os cursos da Khan Academy sobre internet e é um material simples, rápido e didático! 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Pensamentos e Devaneios**: Depois de ter participado de alguns workshops, me senti mais confiante hoje no curso do FreeCodeCamp (e acho que ter melhorado meu tempo na caminhada hoje também contribuiu :). Também decidi me comprometer a escrever códigos todos os dias, vamos ver como vou chegar daqui pro fim do ano XD. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) para o trabalho/referência**
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+1. [Curso teórico de introdução ao IHC - Interação Humano-Computador e UX Design](https://www.udemy.com/course/interacao-humano-computador-e-ux-design/learn/lecture/21829600#overview)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+2. [Khan Academy: How the Internet works](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+3. [Portifólio no FreeCodeCamp]
+(https://www.freecodecamp.org/garrrcia)
