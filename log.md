@@ -13,3 +13,38 @@
 2. [Khan Academy: How the Internet works](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#internet-works)
 
 3. [Portifólio no FreeCodeCamp](https://www.freecodecamp.org/garrrcia)
+
+
+### Dia 2: 8 de Setembro, Terça
+
+**Progresso de Hoje**: Começaram as aulas na faculdade, então dei mais prioridades para me organizar nas atividades. Darei continuidade a um protótipo iniciado no semestre passado, tornando-o mais real e mais próximo de ser executado.
+
+**Pensamentos e Devaneios**: Nada de novo. Estou meio perdida e em dúvida de muitas coisas, mas temos dias e dias kkkkk.
+
+**Link(s) para o trabalho/referência**
+
+1. [Projeto Integrador I - Protótipo do app Beside: O objetivo dessa cadeira foi desenvolver um protótipo de baixa fidelidade que sanasse alguma dor de um público-alvo específico.](https://www.figma.com/proto/v4sm4t1LVPndg8lXkuwBp3/PI-Final?scaling=scale-down&node-id=1%3A13)
+
+2.[]()
+
+### Dia 3: 9 de Setembro, Quarta
+
+**Progresso de Hoje**: Conclui o módulo 2 do curso PrograMaria, onde revisei os conceitos de HTML e fiz o esqueleto do site. 
+
+**Pensamentos e Devaneios**: Hoje foi mais difícil de estudar mas consegui concluir os objetivos que tinha estabelecido. A didática da PrograMaria é muito boa, é muito esclarecedor a forma que elas conseguemexplicar conceitos abstratos.
+
+**Link(s) para o trabalho/referência**
+
+1. [Site Ada - PrograMaria](https://siteada.garrrcia.repl.co/)
+
+2.[]()
+
+### Dia x: dia de Mês, dia da semana
+
+**Progresso de Hoje**: 
+
+**Pensamentos e Devaneios**:
+
+**Link(s) para o trabalho/referência**
+
+1.[Título](Link)
