@@ -25,7 +25,8 @@
 
 1. [Projeto Integrador I - Protótipo do app Beside: O objetivo dessa cadeira foi desenvolver um protótipo de baixa fidelidade que sanasse alguma dor de um público-alvo específico.](https://www.figma.com/proto/v4sm4t1LVPndg8lXkuwBp3/PI-Final?scaling=scale-down&node-id=1%3A13)
 
-2.[]()
+2.[Trello do Projeto Integrador I ](https://trello.com/besideaolado)
+
 
 ### Dia 3: 9 de Setembro, Quarta
 
@@ -38,6 +39,7 @@
 1. [Site Ada - PrograMaria](https://siteada.garrrcia.repl.co/)
 
 2.[]()
+
 
 ### Dia x: dia de Mês, dia da semana
 
