@@ -41,6 +41,36 @@
 2. []()
 
 
+### Dia 4: 10 de Setembro, Quinta
+
+**Progresso de Hoje**: Iniciei o módulo 3 do curso da PrograMaria, onde comecei a estilizar o site com CSS.
+
+**Pensamentos e Devaneios**:CSS é um pouco mais desafiador e ainda tenho que estudar MUITO.
+
+**Link(s) para o trabalho/referência**
+
+1.[Site Ada - PrograMaria](https://siteada.garrrcia.repl.co/)
+
+2.[Tipografia digital: escolha as melhores fontes web para o seu site](https://www.hostgator.com.br/blog/fontes-web-como-escolher/) 
+
+3.[Como Utilizar o Google Fonts - Passo a Passo Ilustrado](https://metring.com.br/como-utilizar-o-google-fonts)
+
+4.[Color Picker do Google](https://www.google.com/search?q=color+picker)
+
+5.[Color Names Supported by All Browsers](https://www.w3schools.com/cssref/css_colors.asp)
+
+6. [Entenda como funciona o código de cores RGB](https://dicasdeprogramacao.com.br/entenda-como-funcionam-os-codigos-de-cores-rgb/)
+
+7.[SECTIONS: SEÇÕES DO HTML5 – PARTE 1](https://tableless.com.br/sections-html5/)
+
+8.[Conhecendo os elementos semânticos do HTML5](https://medium.com/reprogramabr/semanticahtml5-5252b4937f0a)
+
+9.[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+10.[margin](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin#:~:text=A%20propriedade%20margin%20pode%20ser,para%20todos%20os%20quatro%20lados)
+
+11.
+
 ### Dia x: dia de Mês, dia da semana
 
 **Progresso de Hoje**: 
@@ -50,3 +80,4 @@
 **Link(s) para o trabalho/referência**
 
 1.[Título](Link)
+
